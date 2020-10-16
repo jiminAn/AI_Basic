@@ -10,13 +10,13 @@ Week5
 
 - 실습2 : 벡터, 행렬연산, 그래프 그리기
 
-  02_Vector_Matrix_Graph
+  <02_Vector_Matrix_Graph>
 
 Week7
 
 - 실습3 : Euclid Norm  $l_1$, $l_2# norm 그리기
 
-  03_Analytic_Geometry
+  <03_Analytic_Geometry>
 
 
 
